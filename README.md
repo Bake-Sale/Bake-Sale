@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://file.garden/aBm_EJdbGjS8LzRX/Screenshot_4.png)
 <!--
 **Bake-Sale/Bake-Sale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
